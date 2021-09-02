@@ -47,7 +47,8 @@
 ---
 ### Most used Languages :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidIssaoui&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidIssaoui&langs_count=8)
+
 
 
 [website]: https://saidissaoui.github.io/
