@@ -41,7 +41,8 @@
 
 
 ---
-[![Said's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidIssaoui)](https://github.com/anuraghazra/github-readme-stats)
+![Said's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidIssaoui&show_icons=true)
+
 
 ---
 ### Most used Languages :
