@@ -5,11 +5,10 @@
 
 ## I'm a talented, ambitious and hardworking Developer !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to improve my skills
 - 🥅 2021 Goals: Contribute to one Open Source projects
-- ⚡ Fun fact: I love to play video games to search for bugs
+- ⚡ Fun fact: I love to play video games searching for bugs
 
 ### Connect with me:
 
