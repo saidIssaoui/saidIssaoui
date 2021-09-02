@@ -43,6 +43,10 @@
 ---
 [![Said's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidIssaoui)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+### Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidIssaoui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://saidissaoui.github.io/
