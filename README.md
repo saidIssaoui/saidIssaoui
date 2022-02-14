@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to improve my skills
-- 🥅 2021 Goals: Contribute to an Open Source project
+- 🥅 2022 Goals: Contribute to an Open Source project
 - ⚡ Fun fact: I love to play hard video games
 
 ### Connect with me:
