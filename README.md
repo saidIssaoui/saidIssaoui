@@ -1,4 +1,4 @@
-### Hi there, I'm Said - this is my website [Linkedin][linkedin] 👋
+### Hi there, I'm Said - this is my LinkedIn profile [Linkedin][linkedin] 👋
 
 
 
