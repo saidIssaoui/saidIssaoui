@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to improve my skills
-- 🥅 2023 Goals: More learning
 - ⚡ Fun fact: I love to play hard video games
 
 ### Connect with me:
